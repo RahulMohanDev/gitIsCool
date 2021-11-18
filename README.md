@@ -19,6 +19,7 @@ teaching git to **awesome** people.
 9. git branch // q to quit out of the the view.
 10. git checkout -b feat/readme/addText
 11. git diff branchName(show different between the current branch and the branch mentioned above)
-12. this is stupid
+12. this is not stupid and this is the actual step 12.
+
 > We learned what md dose
 > https://www.markdownguide.org/cheat-sheet/
