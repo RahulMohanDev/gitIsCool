@@ -20,6 +20,7 @@ teaching git to **awesome** people.
 10. git checkout -b feat/readme/addText
 11. git diff branchName(show different between the current branch and the branch mentioned above)
 12. this is not stupid and this is the actual step 12.
+13. this is a PR change.
 
 > We learned what md dose
 > https://www.markdownguide.org/cheat-sheet/
